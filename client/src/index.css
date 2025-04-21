@@ -24,13 +24,25 @@ html, body {
   overflow-x: hidden;
 }
 
-#login, #chatPage {
+#login, #chatPage{
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+ #home {
+  display: flex;
+  align-items: start;
+  margin-top: 32px;
+  justify-content: center;
+  text-align: center;
+ }
+
+ video {
+  height: 300px;
+ }
 
 #loader {
   position: fixed;
