@@ -9,7 +9,7 @@ import { getDatabase } from 'firebase/database';
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
 //TODO: Copy and past your firebase configurations that gived by firebase web app. For more information: https://firebase.google.com/learn/pathways/firebase-web
-//!IMPORTANT: Please rename this file to firebase. For more information visit this link https://firebase.google.com/learn/pathways/firebase-web
+//!IMPORTANT: Please rename this file to firebase (firebase-new.js -> firebase.js). For more information visit this link https://firebase.google.com/learn/pathways/firebase-web
 const firebaseConfig = {
   apiKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
   authDomain: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
