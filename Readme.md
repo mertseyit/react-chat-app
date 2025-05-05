@@ -93,12 +93,12 @@ Aşağıdaki adımları takip ederek uygulamayı başlatabilirsiniz:
 # API klasöründe
 cd api
 npm install
-npm start
+npm run dev
 
 # Client klasöründe
 cd client
 npm install
-npm start
+npm run dev
 ```
 
 Tarayıcınızda `http://localhost:3000` adresinden uygulamayı görüntüleyebilirsiniz.
